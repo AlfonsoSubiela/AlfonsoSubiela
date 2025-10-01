@@ -23,7 +23,7 @@
 ---
 
 ## 📊 Stats de GitHub
-![aNNKKA's GitHub stats](https://github-readme-stats.vercel.app/api?username=aNNKKA&show_icons=true&theme=tokyonight)  
+![Alfonso Subiela GitHub stats](https://github-readme-stats.vercel.app/api?username=aNNKKA&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aNNKKA&layout=compact&theme=tokyonight)
 
 ---
