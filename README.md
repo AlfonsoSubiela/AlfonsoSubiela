@@ -18,8 +18,7 @@
 
 ## 📂 Proyectos destacados
 - [📰 News Scraper](https://github.com/usuario/news-scraper) – App Flask que obtiene noticias y las muestra en tabla con búsqueda y filtro.  
-- [🌐 Portfolio Web](https://github.com/usuario/portfolio) – Mi página personal con proyectos destacados.  
-- [⚡ JS Utils](https://github.com/usuario/js-utils) – Librería de funciones útiles en JavaScript.  
+  
 
 ---
 
@@ -31,8 +30,7 @@
 
 ## 📫 Cómo contactarme
 - ✉️ Email: alfonso.subiela@gmail.com 
-- 💼 [LinkedIn](https://linkedin.com/in/alfonsosubiela)  
-- 🌍 [Portfolio](https://tuweb.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/alfonso-subiela)  
 
 ---
 
