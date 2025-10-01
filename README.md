@@ -14,24 +14,10 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
 
-## 📂 Proyectos destacados
-- [📰 News Scraper](https://github.com/usuario/news-scraper) – App Flask que obtiene noticias y las muestra en tabla con búsqueda y filtro.  
-  
-
----
-
-## 📊 Stats de GitHub
-![Alfonso Subiela GitHub stats](https://github-readme-stats.vercel.app/api?username=aNNKKA&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aNNKKA&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Cómo contactarme
 - ✉️ Email: alfonso.subiela@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/alfonso-subiela)  
 
----
 
-✨ *“El código es como el humor: cuando tienes que explicarlo, no es tan bueno.”*
