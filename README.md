@@ -5,6 +5,7 @@
 ⚡ Apasionado por Python, JavaScript y el desarrollo de aplicaciones web  
 
 🌱 Actualmente aprendiendo Flask, SQLite y scraping  
+?icon=[windows]
 
 ---
 
