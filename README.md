@@ -1,7 +1,9 @@
 # 👋 Hola, soy Alfonso Subiela 
 
 💻 Desarrollador Web y estudiante de tecnología  
+
 ⚡ Apasionado por Python, JavaScript y el desarrollo de aplicaciones web  
+
 🌱 Actualmente aprendiendo Flask, SQLite y scraping  
 
 ---
@@ -17,5 +19,7 @@
 
 
 ## 📫 Cómo contactarme
-- ✉️ Email: alfonso.subiela@gmail.com 
+
+- ✉️ Email: alfonso.subiela@gmail.com
+  
 - 💼 [LinkedIn](https://linkedin.com/in/alfonso-subiela)  
